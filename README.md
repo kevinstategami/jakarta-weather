@@ -12,7 +12,7 @@ Aplikasi dashboard prakiraan cuaca Jakarta menggunakan Vue 3, Ionic Vue, TypeScr
 Clone repository lalu masuk ke folder project:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kevinstategami/jakarta-weather.git
 cd jakarta-weather
 ```
 
@@ -51,10 +51,6 @@ http://localhost:5173
 | `npm run dev` | Menjalankan development server |
 | `npm run build` | Type-check dan membuat production build |
 | `npm run preview` | Menjalankan preview production build |
-| `npm run lint` | Menjalankan ESLint |
-| `npm run test:unit` | Menjalankan unit test dalam watch mode |
-| `npm run test:unit -- --run` | Menjalankan unit test sekali lalu berhenti |
-| `npm run test:e2e` | Menjalankan Cypress end-to-end test |
 
 ## Production Build
 
